@@ -9,4 +9,8 @@
 //Algoritmo7.Execute();
 //Algoritmo8.Execute();
 //Algoritmo9.Execute();
-Algoritmo10.Execute();
+//Algoritmo10.Execute();
+//Algoritmo11.Execute();
+//Algoritmo12.Execute();
+//Algoritmo13.Execute();
+Algoritmo14.Execute();
