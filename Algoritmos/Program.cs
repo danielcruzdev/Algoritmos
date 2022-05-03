@@ -15,4 +15,11 @@
 //Algoritmo13.Execute();
 //Algoritmo14.Execute();
 //Algoritmo15.Execute();
-Algoritmo16.Execute();
+//Algoritmo16.Execute();
+//Algoritmo17.Execute();
+//Algoritmo18.Execute();
+//Algoritmo18.Execute();
+//Algoritmo19.Execute();
+//Algoritmo20.Execute();
+//Algoritmo21.Execute();
+Algoritmo22.Execute();
