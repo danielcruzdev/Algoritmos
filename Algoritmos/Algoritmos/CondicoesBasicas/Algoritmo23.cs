@@ -12,8 +12,8 @@
         */
         public static void Execute()
         {
-            const int descontoMulher = 13;
-            const int descontoHomem = 5;
+            const int porcentagemDescontoMulher = 13;
+            const int porcentagemDescontoHomem = 5;
 
             Console.Write("Digite seu nome: ");
             var nome = Console.ReadLine();
@@ -26,18 +26,18 @@
 
             if (sexo == "F")
             {
-                var valorDesconto = valorCompra * descontoMulher / 100;
+                var valorDesconto = valorCompra * porcentagemDescontoMulher / 100;
                 var valorDescontoCompra = valorCompra - valorDesconto;
 
-                Console.WriteLine($"{nome} recebeu {descontoMulher}% de desconto na compra, equivalente a R${valorDesconto:F2}");
+                Console.WriteLine($"{nome} recebeu {porcentagemDescontoMulher}% de desconto na compra, equivalente a R${valorDesconto:F2}");
                 Console.WriteLine($"Valor total a pagar com desconto: R${valorDescontoCompra:F2}");
             }
             else
             {
-                var valorDesconto = valorCompra * descontoHomem / 100;
+                var valorDesconto = valorCompra * porcentagemDescontoHomem / 100;
                 var valorDescontoCompra = valorCompra - valorDesconto;
 
-                Console.WriteLine($"{nome} recebeu {descontoHomem}% de desconto equivalente a R${valorDesconto:F2}");
+                Console.WriteLine($"{nome} recebeu {porcentagemDescontoHomem}% de desconto equivalente a R${valorDesconto:F2}");
                 Console.WriteLine($"Valor total a pagar com desconto: R${valorDescontoCompra:F2}");
             }
         }
