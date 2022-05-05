@@ -5,7 +5,7 @@
         /*
              Faça um algoritmo que leia um determinado ano e mostre se ele é ou não BISSEXTO.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite o ano: ");
             var ano = int.Parse(Console.ReadLine() ?? "0");

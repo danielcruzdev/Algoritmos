@@ -9,7 +9,7 @@
          * Salário: 1850,45
          * O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.
          */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Nome do Funcionário: ");
             var nome = Console.ReadLine();

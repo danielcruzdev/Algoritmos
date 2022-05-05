@@ -6,7 +6,7 @@
             Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade
             dela e depois mostre se ela pode ou não votar.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite seu ano de nascimento: ");
             var anoNascimento = int.Parse(Console.ReadLine() ?? "0");

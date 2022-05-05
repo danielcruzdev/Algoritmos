@@ -6,7 +6,7 @@
             Crie um programa que leia o preço de um produto, calcule e mostre o seu
             PREÇO PROMOCIONAL, com 5% de desconto.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite o valor do produto: ");
             var valorProduto = double.Parse(Console.ReadLine() ?? "0");

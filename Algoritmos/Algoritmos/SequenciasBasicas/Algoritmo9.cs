@@ -6,7 +6,7 @@
             Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$)
             e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite a cotação atual do dolar: ");
             var cotacaoDolar = double.Parse(Console.ReadLine() ?? "0");

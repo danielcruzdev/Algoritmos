@@ -7,7 +7,7 @@
             salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
             por hora trabalhada.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite quantos dias foram trabalhados: ");
             var dias = int.Parse(Console.ReadLine() ?? "0");

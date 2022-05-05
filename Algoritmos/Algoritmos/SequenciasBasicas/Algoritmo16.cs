@@ -8,7 +8,7 @@
             já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule
             quantos dias de vida um fumante perderá e exiba o total em dias.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Quantidade de cigarros fumados por dia: ");
             var qtdCigarrosDia = int.Parse(Console.ReadLine() ?? "0");

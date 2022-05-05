@@ -8,7 +8,7 @@
          * Nota 2: 8.5
          * A média entre 4.5 e 8.5 é igual a 6.5
          */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Nota 1: ");
             var nota1 = Console.ReadLine();

@@ -8,7 +8,7 @@
          * Qual é o seu nome? João da Silva
          * Olá João da Silva, é um prazer te conhecer!
          */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Qual é o seu nome? ");
             var nome = Console.ReadLine();

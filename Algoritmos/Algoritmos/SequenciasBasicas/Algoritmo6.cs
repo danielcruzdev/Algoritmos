@@ -10,7 +10,7 @@
             O antecessor de 9 é 8
             O sucessor de 9 é 10
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite um Número: ");
             var numero = double.Parse(Console.ReadLine() ?? "0");

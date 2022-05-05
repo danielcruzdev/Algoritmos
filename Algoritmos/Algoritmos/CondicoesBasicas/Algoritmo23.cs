@@ -10,7 +10,7 @@
              - Homens ganham 5% de desconto
              - Mulheres ganham 13% de desconto
         */
-        public static void Execute()
+        public static void Start()
         {
             const int porcentagemDescontoMulher = 13;
             const int porcentagemDescontoHomem = 5;

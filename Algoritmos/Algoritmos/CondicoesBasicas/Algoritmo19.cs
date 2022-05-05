@@ -7,7 +7,7 @@
             média e mostre na tela. No final, analise a média e mostre se o aluno teve ou
             não um bom aproveitamento (se ficou acima da média 7.0).
         */
-        public static void Execute()
+        public static void Start()
         {
             const double acimaMedia = 7.0F;
 

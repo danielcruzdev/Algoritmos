@@ -7,7 +7,7 @@
             segundo grau e mostre o valor de Delta.
             delta = b² - 4ac
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite o valor de A: ");
             var a = double.Parse(Console.ReadLine() ?? "0");

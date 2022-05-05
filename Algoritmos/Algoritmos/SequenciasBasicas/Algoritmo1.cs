@@ -5,7 +5,7 @@
         /*
          * Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
          */
-        public static void Execute()
+        public static void Start()
         {
             Console.WriteLine("Olá, mundo");
         }

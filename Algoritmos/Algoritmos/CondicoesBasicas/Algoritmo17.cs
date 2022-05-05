@@ -7,7 +7,7 @@
             80Km/h, exiba uma mensagem dizendo que o usuário foi multado. Nesse caso, exiba
             o valor da multa, cobrando R$5 por cada Km acima da velocidade permitida.
         */
-        public static void Execute()
+        public static void Start()
         {
             const int velocidadePermitida = 80;
             Console.Write("Digite a velocidade do carro: ");

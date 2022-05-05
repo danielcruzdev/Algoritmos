@@ -7,7 +7,7 @@
             percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para 
             viagens até 200Km e R$0.45 para viagens mais longas.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite a distancia em Km que você irá percorrer: ");
             var distanciaEmKm = double.Parse(Console.ReadLine() ?? "0");

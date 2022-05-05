@@ -9,7 +9,7 @@
          * Digite outro valor: 5
          * A soma entre 8 e 5 é igual a 13.
          */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite um valor: ");
             var primeiroValor = Console.ReadLine();

@@ -9,7 +9,7 @@
              - Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do
             alistamento.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite seu ano de nascimento: ");
             var nascimento = int.Parse(Console.ReadLine() ?? "0");

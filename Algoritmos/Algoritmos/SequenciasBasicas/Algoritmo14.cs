@@ -8,7 +8,7 @@
             quantidade de dias pelos quais ele foi alugado. Calcule o preço total a pagar,
             sabendo que o carro custa R$90 por dia e R$0,20 por Km rodado.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite quantos KMs foram percorridos com o veiculo: ");
             var quilometros = double.Parse(Console.ReadLine() ?? "0");

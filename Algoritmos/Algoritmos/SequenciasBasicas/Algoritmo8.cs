@@ -15,7 +15,7 @@
             18572.0cm
             185720.0mm
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite uma distância em metros: ");
             var distaciaEmMetros = double.Parse(Console.ReadLine() ?? "0");

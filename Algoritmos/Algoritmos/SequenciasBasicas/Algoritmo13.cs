@@ -6,7 +6,7 @@
             Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o
             seu novo salário, com 15% de aumento.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite o valor do salário: ");
             var valorSalario = double.Parse(Console.ReadLine() ?? "0");

@@ -10,7 +10,7 @@
             O dobro de 3.5 é 7.0
             A terça parte de 3.5 é 1.16666
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Digite um Número: ");
             var numero = double.Parse(Console.ReadLine() ?? "0");

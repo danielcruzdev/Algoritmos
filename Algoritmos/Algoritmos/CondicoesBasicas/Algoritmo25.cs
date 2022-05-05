@@ -10,7 +10,7 @@
             existe o que conhecemos como condição de existência, que é a seguinte: 
             a soma de dois lados é sempre maior que o terceiro lado.
         */
-        public static void Execute()
+        public static void Start()
         {
             Console.Write("Valor reta a: ");
             var retaA = double.Parse(Console.ReadLine() ?? "0");
