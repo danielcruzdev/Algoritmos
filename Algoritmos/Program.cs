@@ -26,4 +26,5 @@
 //Algoritmo23.Start();
 //Algoritmo24.Start();
 //Algoritmo25.Start();
-Algoritmo26.Start();
+//Algoritmo26.Start();
+Algoritmo27.Start();
