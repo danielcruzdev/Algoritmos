@@ -30,4 +30,5 @@
 //Algoritmo27.Start();
 //Algoritmo28.Start();
 //Algoritmo29.Start();
-Algoritmo30.Start();
+//Algoritmo30.Start();
+Algoritmo31.Start();
