@@ -37,4 +37,9 @@
 //Algoritmo34.Start();
 //Algoritmo35.Start();
 //Algoritmo36.Start();
-Algoritmo37.Start();
+//Algoritmo37.Start();
+//Algoritmo38.Start();
+//Algoritmo39.Start();
+//Algoritmo40.Start();
+//Algoritmo41.Start();
+Algoritmo42.Start();
