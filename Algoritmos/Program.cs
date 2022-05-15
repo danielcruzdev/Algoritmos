@@ -45,4 +45,10 @@
 //Algoritmo42.Start();
 //Algoritmo43.Start();
 //Algoritmo44.Start();
-Algoritmo45.Start();
+//Algoritmo45.Start();
+//Algoritmo46.Start();
+//Algoritmo47.Start();
+//Algoritmo48.Start();
+//Algoritmo49.Start();
+//Algoritmo50.Start();
+Algoritmo51.Start();
