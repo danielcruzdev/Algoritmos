@@ -3,8 +3,8 @@
     public static class Algoritmo49
     {
         /*
-            Faça um programa que leia 7 números inteiros e no final mostre o somatório
-            entre eles.
+            Crie um programa que leia 6 números inteiros e no final mostre quantos deles
+            são pares e quantos são ímpares.
         */
         public static void Start()
         {
