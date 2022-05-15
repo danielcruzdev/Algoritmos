@@ -17,7 +17,6 @@
             {
                 Console.Write($"Digite um número: ");
                 var numero = int.Parse(Console.ReadLine() ?? "0");
-
                 var resto = numero % 2;
 
                 if (resto == 0)
