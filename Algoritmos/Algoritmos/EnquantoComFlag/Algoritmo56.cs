@@ -16,7 +16,10 @@
             {
                 Console.Write("Digite um número inteiro: ");
                 numero = int.Parse(Console.ReadLine() ?? "0");
-                total += numero;
+
+                if(numero != 1111)
+                    total += numero;
+
             } while (numero != 1111);
 
             Console.WriteLine($"Soma total: {total}");
