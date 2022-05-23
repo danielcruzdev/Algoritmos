@@ -63,4 +63,8 @@
 //Algoritmo60.Start();
 //Algoritmo61.Start();
 //Algoritmo62.Start();
-Algoritmo63.Start();
+//Algoritmo63.Start();
+//Algoritmo64.Start();
+//Algoritmo65.Start();
+//Algoritmo66.Start();
+Algoritmo67.Start();
