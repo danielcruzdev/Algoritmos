@@ -70,4 +70,11 @@
 //Algoritmo67.Start();
 //Algoritmo68.Start();
 //Algoritmo69.Start();
-Algoritmo70.Start();
+//Algoritmo70.Start();
+//Algoritmo71.Start();
+//Algoritmo72.Start();
+//Algoritmo73.Start();
+//Algoritmo74.Start();
+//Algoritmo75.Start();
+//Algoritmo76.Start();
+Algoritmo77.Start();
