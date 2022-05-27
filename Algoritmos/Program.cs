@@ -78,4 +78,6 @@
 //Algoritmo75.Start();
 //Algoritmo76.Start();
 //Algoritmo77.Start();
-Algoritmo78.Start();
+//Algoritmo78.Start();
+//Algoritmo79.Start();
+Algoritmo80.Start();
