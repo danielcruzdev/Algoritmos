@@ -93,4 +93,6 @@
 //Algoritmo90.Start();
 //Algoritmo91.Start();
 //Algoritmo92.Start();
-Algoritmo93.Start();
+//Algoritmo93.Start();
+//Algoritmo94.Start();
+Algoritmo95.Start();
